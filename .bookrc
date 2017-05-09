@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "the-little-match-man",
-  "type": "blank"
+  "name": "The Little Match Man",
+  "type": "blank",
+  "book_id": 412
 }
